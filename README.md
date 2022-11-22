@@ -43,7 +43,7 @@ Redash supports more than 35 SQL and NoSQL [data sources](https://redash.io/help
 - Couchbase
 - CSV
 - Databricks
-- DB2 by IBM
+- DB2 by IBM (Only supported for amd64 architecture)
 - Dgraph
 - Apache Drill
 - Apache Druid
